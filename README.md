@@ -12,11 +12,11 @@ This directory contains a working BattleShip program to be run from the terminal
 ### Compiling
 To compile, run
   
-    javac *java
+    javac battlechap/*java
 
 ### Running
 To play, run
 
-    java BattleShip
+    java battlechap.BattleShip
 
 Enjoy!
