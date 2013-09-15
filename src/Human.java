@@ -1,7 +1,7 @@
-package BattleChap;
+package battlechap;
 
 import cs1.Keyboard;
-import BattleChap.*;
+import battlechap.*;
 
 /*Most functions are from the Player class, the only difference is that they produce
 output by using the Keyboard functions*/

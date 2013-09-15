@@ -1,6 +1,6 @@
-package BattleChap;
+package battlechap;
 
-import BattleChap.*;
+import battlechap.*;
 public class BattleGrid{
     //Matrix to display board and hit count\\
     private Matrix _buffer;

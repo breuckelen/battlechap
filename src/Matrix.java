@@ -1,4 +1,4 @@
-package BattleChap;
+package battlechap;
 
 import java.io.PrintStream;
 

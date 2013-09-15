@@ -1,6 +1,6 @@
-package BattleChap;
+package battlechap;
 
-import BattleChap.*;
+import battlechap.*;
 //Computer class, this one was really annoying to make, and it doesn't work fully\\
 public class Computer extends Player{
     public static final String COLUMNS = "ABCDEFGHIJ";

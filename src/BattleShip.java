@@ -4,10 +4,10 @@
 // PROJECT 2
 // 2013-01-21
 
-package BattleChap;
+package battlechap;
 
 import cs1.Keyboard;
-import BattleChap.*;
+import battlechap.*;
 
 //Main BattleShip class\\
 public class BattleShip{

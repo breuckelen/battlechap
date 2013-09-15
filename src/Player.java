@@ -1,4 +1,4 @@
-package BattleChap;
+package battlechap;
 
 //Abstract class player\\
 public class Player{
