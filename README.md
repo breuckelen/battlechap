@@ -9,7 +9,14 @@ This directory contains a working BattleShip program to be run from the terminal
 
 4. Passwords
 
+### Compiling
+To compile, run
+  
+    javac *java
+
 ### Running
-Run `java BattleChap.BattleShip` to play
+To play, run
+
+    java BattleShip
 
 Enjoy!
