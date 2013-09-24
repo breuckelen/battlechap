@@ -19,4 +19,14 @@ To play, run
 
     java battlechap.BattleShip
 
+
+```python
+p1 = "Tom"
+p2 = "Sue"
+amt = 20
+
+result = p1 + " owes " + p2 + str(amt) + " dollars"
+print resultsA
+```
+
 Enjoy!
